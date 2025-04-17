@@ -18,8 +18,8 @@ This project is a scalable eCommerce REST API built with **FastAPI**. It handles
 
 ## 🌐 GitHub Repository
 
-➡️ [GitHub Link Here](https://github.com/your-username/ecommerce-api)  
-*(Replace with your actual repository URL)*
+➡️ [GitHub Link Here](https://github.com/Mayuresh308/PepSales.git)  
+
 
 ---
 
